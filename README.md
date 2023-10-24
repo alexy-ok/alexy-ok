@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm **Alex Yin**, a CSE student studying at UCI 🐜
+I'm **Alex Yin**, a CSE student studying at UCI 🐜
 I have experience coding in Java and Python and with databases and I am currently learning web development
 I am a member of UCI's ICS Student Council, Hack @ UCI, and the Chinese Association at UCI
 Frameworks:
