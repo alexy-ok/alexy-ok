@@ -16,7 +16,7 @@ Frameworks:
 Data:
 - MySQL
 - Postgres
-Outside of studying SWE, I also like doing game development, art, working out, playing video games and I'm trying to learn fashion.
+Outside of studying SWE, I also like doing game development, art, working out, playing video games and I'm trying to learn fashion.  
 Socials:
 - [Linkedin](https://www.linkedin.com/in/alexander-yin-55314b248)
 - [Instagram](https://www.instagram.com/ale.xyin)
