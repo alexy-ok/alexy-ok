@@ -3,10 +3,10 @@
 I'm **Alex Yin**, a CSE student at UCI 🐜  
 I have experience coding in Java and Python and with databases and I am currently learning web development and working on leetcode  
 I am a member of UCI's ICS Student Council, Hack @ UCI, and the Chinese Association at UCI  
-#### Courses I'm taking:  
-- ICS 32A - Python
-- ICS 6B - Boolean logic & Discrete Math
-- STATS 67 - 
+#### Courses I'm taking right now:  
+- ICS 45c: C++
+- INF 43: Software Engineering
+- Math 3A: Linear Algebra
 #### Frameworks:  
 - Django
 - Flutter
