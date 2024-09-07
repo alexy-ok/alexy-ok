@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Alex Yin**, a CSE student at UCI 🐜  
+I'm **Alex Yin**, a CS student at UCI 🐜  
 I have experience coding in Java and Python and with databases and I am currently learning web development and working on leetcode  
 I am a member of UCI's ICS Student Council, Hack @ UCI, and the Chinese Association at UCI  
 #### Courses I'm taking right now (Fall 2024):  
@@ -17,7 +17,7 @@ I am a member of UCI's ICS Student Council, Hack @ UCI, and the Chinese Associat
 - MySQL
 - Postgres
 #### Hobbies:  
-Outside of studying SWE, I also like game development, art, design, working out, and playing video games.  
+Outside of studying SWE, I like game development, art, design, working out, and playing video games.  
 ##### Socials:  
 - [Linkedin](https://www.linkedin.com/in/alexander-yin-55314b248)
 - [Instagram](https://www.instagram.com/ale.xyin)
