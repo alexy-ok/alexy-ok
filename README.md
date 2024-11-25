@@ -2,22 +2,21 @@
 
 I'm **Alex Yin**, a CS student at UCI 🐜  
 I have experience coding in Java and Python and with databases and I am currently learning web development and working on leetcode  
-I am a member of UCI's ICS Student Council, Hack @ UCI, and the Chinese Association at UCI  
+I am a developer for UCI's Commit the Change, a member of the ICS Student Council, AI @ UCI, and Hack @ UCI
 #### Courses I'm taking right now (Fall 2024):  
 - ICS 46: Data Structure Implementation and Analysis
 - ICS 51: Introductory Computer Organization
-- CS 122A:  Introduction to Data Management
+- CS 122A: Introduction to Data Management
 #### Frameworks:  
-- Django
-- Flutter
 - React
-- Unity Engine
-- Godot Engine  
+- Express.JS
+- Django
+- Flask
 #### Data:  
 - MySQL
 - Postgres
 #### Hobbies:  
-Outside of studying SWE, I like game development, art, design, working out, and playing video games.  
+Outside of studying Computer Science, I spend my time around basketball, art, design, and video games.  
 ##### Socials:  
 - [Linkedin](https://www.linkedin.com/in/alexander-yin-55314b248)
 - [Instagram](https://www.instagram.com/ale.xyin)
