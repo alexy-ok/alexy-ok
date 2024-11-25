@@ -21,7 +21,7 @@ Outside of studying Computer Science, I spend my time around basketball, art, de
 - [Linkedin](https://www.linkedin.com/in/alexander-yin-55314b248)
 - [Instagram](https://www.instagram.com/ale.xyin)
 - Riot Games: bramble abuser #NA1  
-![LeetCode Stats](https://leetcard.jacoblin.cool/alexyyyy?theme=dark&font=IBM%20Plex%20Mono)
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/alexyyyy?theme=dark&font=IBM%20Plex%20Mono)
 <!--
 **alexy-ok/alexy-ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
