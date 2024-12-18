@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there :3
 
 I'm **Alex Yin**, a CS student at UCI 🐜  
-I have experience coding in Java and Python and with databases and I am currently learning web development and working on leetcode  
+I have experience coding in C++ and Python, and I am currently learning web development and working on leetcode  
 I am a developer for UCI's Commit the Change, a member of the ICS Student Council, AI @ UCI, and Hack @ UCI
 #### Courses I'm taking right now (Fall 2024):  
 - ICS 46: Data Structure Implementation and Analysis
@@ -12,11 +12,11 @@ I am a developer for UCI's Commit the Change, a member of the ICS Student Counci
 - Express.JS
 - Django
 - Flask
-#### Data:  
-- MySQL
-- Postgres
+#### I'm Working On:
+- Portfolio (WIP)
+- [Commit the Change](https://ctc-uci.com/projects) Project
 #### Hobbies:  
-Outside of studying Computer Science, I spend my time around basketball, art, design, and video games.  
+Outside of studying Computer Science, I love art, design, and learning new things
 ##### Socials:  
 - [Linkedin](https://www.linkedin.com/in/alexander-yin-55314b248)
 - [Instagram](https://www.instagram.com/ale.xyin)
