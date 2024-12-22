@@ -1,16 +1,10 @@
 ### Hi there :3
-
 I'm **Alex Yin**, a CS student at UCI 🐜  
 I have experience coding in C++ and Python, and I am currently learning web development and working on leetcode  
 I am a developer for UCI's Commit the Change, a member of the ICS Student Council, AI @ UCI, and Hack @ UCI
 #### Courses I'm taking right now (Winter 2025):  
 - ICS 53: Principles in System Design
 - CS 171: Introduction to Artificial Intelligence
-#### Frameworks:  
-- React
-- Express.JS
-- Django
-- Flask
 #### I'm Working On:
 - Portfolio (WIP)
 - [Commit the Change](https://ctc-uci.com/projects) Project
