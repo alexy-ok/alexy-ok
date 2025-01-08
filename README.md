@@ -8,6 +8,7 @@ I am a developer for UCI's Commit the Change, a member of the ICS Student Counci
 #### I'm Working On:
 - Portfolio (WIP)
 - [Commit the Change](https://ctc-uci.com/projects) Project
+- UCI Rocket Project Solids Avionics Backend
 #### I code with:
 
 ###
