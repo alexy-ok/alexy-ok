@@ -1,4 +1,4 @@
-### Hi there :3
+### Hi there 😸
 I'm **Alex Yin**, a CS student at UCI 🐜  
 I have experience coding in C++ and Python, and I am currently learning web development and working on leetcode  
 I am a developer for UCI's Commit the Change, a member of the ICS Student Council, AI @ UCI, and Hack @ UCI
