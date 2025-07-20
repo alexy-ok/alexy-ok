@@ -1,16 +1,17 @@
 ### Hi there 😸
 I'm **Alex Yin**, a CS student at UCI 🐜  
-I have experience coding in C++ and Python, and I am currently learning web development and working on leetcode  
-I am a developer for UCI's Commit the Change, a member of the ICS Student Council, AI @ UCI, and Hack @ UCI
-#### Courses I'm taking right now (Spring 2025):  
-- CS 162: Formal Languages and Automata
-- CS 161: Design and Analysis of Algorithms
-- CS 143A: Principles of Operating Systems
+I have experience coding in C++ and Python, and I am currently learning web development and working on Leetcode  
+I am a technical project lead for UCI's Commit the Change, a member of the ICS Student Council, AI @ UCI, and Hack @ UCI
+#### Courses I'm taking (Fall 2025):  
+- CS 122B: Project in Databases and Web Applications
+- CS 166: Quantum Computation and Information
+- CS 116: Computational Photography and Vision
 #### I'm Working On:
-- [Commit the Change](https://ctc-uci.com/projects) Project
-- UCI Rocket Project Solids Avionics Backend
-- Wayne Hayes Edge Prediction Research
-#### I code with:
+Co-Leading a [Commit the Change](https://ctc-uci.com/projects) Project
+Software Engineering Internship @ MITRE
+#### Hobbies:  
+Outside of studying Computer Science, I'm learning basketball, sketching, and pattern making.
+
 
 ###
 
@@ -31,8 +32,6 @@ I am a developer for UCI's Commit the Change, a member of the ICS Student Counci
 </div>
 
 ###
-#### Hobbies:  
-Outside of studying Computer Science, I love art, design, and learning new things
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/alexyyyy?theme=dark&font=IBM%20Plex%20Mono)
 <!--
 **alexy-ok/alexy-ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
