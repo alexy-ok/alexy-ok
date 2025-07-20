@@ -8,6 +8,7 @@ I am a technical project lead for UCI's Commit the Change, a member of the ICS S
 - CS 116: Computational Photography and Vision
 #### I'm Working On:
 Co-Leading a [Commit the Change](https://ctc-uci.com/projects) Project
+
 Software Engineering Internship @ MITRE
 #### Hobbies:  
 Outside of studying Computer Science, I'm learning basketball, sketching, and pattern making.
