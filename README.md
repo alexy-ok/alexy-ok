@@ -2,17 +2,10 @@
 I'm **Alex Yin**, a CS student at UCI 🐜  
 I have experience coding in C++ and Python, and I am currently learning web development and working on Leetcode  
 I am a technical project lead for UCI's Commit the Change, a member of the ICS Student Council, AI @ UCI, and Hack @ UCI
-#### Courses I'm taking (Fall 2025):  
-- CS 177: Probability in Computer Science
-- CS 166: Quantum Computation and Information
-- CS 178: ML and Data-Mining
+
 #### I'm Working On:
-Co-Leading a [Commit the Change](https://ctc-uci.com/projects) Project
-
-Software Engineering Internship @ MITRE
-#### Hobbies:  
-Outside of studying Computer Science, I'm learning basketball, sketching, and pattern making.
-
+Co-Leading a [Commit the Change](https://ctc-uci.com/projects) Project  
+Working with Prof. Hayes for [HayesLab](https://hayeslab.ics.uci.edu/)
 
 ###
 
