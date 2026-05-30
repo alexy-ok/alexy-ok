@@ -2,6 +2,7 @@
 I'm **Alex Yin**, a CS student at UCI 🐜 
 
 #### I'm Working On:
+Capital One TDP in August   
 Co-Leading a [Commit the Change](https://ctc-uci.com/projects) Project  
 Working with Prof. Hayes for [HayesLab](https://hayeslab.ics.uci.edu/)
 
@@ -23,7 +24,9 @@ Working with Prof. Hayes for [HayesLab](https://hayeslab.ics.uci.edu/)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
 </div>
 
+
 ###
+<img width="185" height="225" alt="image" src="https://github.com/user-attachments/assets/c8620c27-2239-43f6-85ed-086005d208dd" />
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/alexyyyy?theme=dark&font=IBM%20Plex%20Mono)
 <!--
 **alexy-ok/alexy-ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
